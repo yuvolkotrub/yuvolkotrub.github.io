@@ -28,7 +28,7 @@ This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (
 
 This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (κλ) to date**, significantly improving constraints on Higgs boson self-interaction and non-resonant HH production.
 
-Further details are available in [the official ATLAS public briefing.](https://atlas.cern/Updates/Briefing/Higgs-Self-Interaction-Run-3)
+Further details are available in [the official ATLAS public briefing](https://atlas.cern/Updates/Briefing/Higgs-Self-Interaction-Run-3).
 
 The workflow closely mirrors industry-grade model validation and monitoring practices: robust cross-validation, sensitivity studies to input features, uncertainty propagation, and reproducibility checks.
 
