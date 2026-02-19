@@ -89,6 +89,8 @@ This work strengthened my expertise in:
 - High-dimensional optimisation  
 - Probabilistic machine learning  
 
+The results were published in *Computer Physics Communications* (2025), DOI: https://doi.org/10.1016/j.cpc.2025.109913.
+
 The project demonstrates how statistical inference and ML techniques can bridge physics-based modelling and real-world medical imaging challenges.
 
 ---
