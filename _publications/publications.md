@@ -10,6 +10,10 @@ author_profile: true
 Journal Publications
 ======
 
+A complete and up-to-date publication record, including citation metrics, is available on INSPIRE-HEP, [link](https://inspirehep.net/authors/1279244?ui-citation-summary=true).
+
+1. A. Yu. Korchin, E. Richter-Was, **Yu. Volkotrub**, and Z. Was. $\tau$-lepton pair spin in proton-proton LHC collisions for anomalous dipole moments. [*Phys. Rev. D **111**, 013006 (2025)*.](https://doi.org/10.1103/PhysRevD.111.013006)
+
 1. **Yu. Volkotrub**, R. Skibiński, J. Golak, H. Witała. Correlations among neutron-proton and neutron-deuteron elastic scattering observables. [*Phys. Rev. C **106**, 034002 (2022)*.](https://doi.org/10.1103/PhysRevC.106.034002)
 
 1. P. Maris, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, Ulf-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Roth, R. Skibiński, V. Soloviov, K. Topolnicki, J. P. Vary, **Yu. Volkotrub**, H. Witała, T. Wolfgruber. Light nuclei with semilocal momentum-space regularized chiral interactions up to third order. [*Phys. Rev. C **103**, 054001 (2021) (Editors' suggestion)*.](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.054001) 
@@ -22,10 +26,10 @@ Journal Publications
 
 1. R. Skibiński, J. Golak, K. Topolnicki, H. Witała, and **Yu. Volkotrub** *et al*. Nucleon-deuteron scattering with the JISP16 potential. [*Phys. Rev. C 97, 014002 (2018).*](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.014002)
 
-A complete and up-to-date publication record, including citation metrics, is available on INSPIRE-HEP, [link](https://inspirehep.net/authors/1279244?ui-citation-summary=true).
-
 Conference Proceedings
 ======
+
+1. **Yu. Volkotrub**. Tau Anomalous Magnetic Moment Measurement at ATLAS and CMS. Presented at the 30th Cracow Epiphany Conference on *Precision Physics at High Energy Colliders*, Cracow, Poland, 8–12 January, 2024. [Acta Phys. Pol. B Proc. Suppl. **17**, 5 (2024).](https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=17&aid=5-A26)
 
 1. R. Skibiński,  J. Golak,  V. Soloviov, K. Topolnicki, **Yu. Volkotrub**,  H. Witała. Modern chiral forces applied to the neutron-deuteron breakup reaction. *Advances on the Few-Body Problem in Physics – Selected and Refereed papers from the 8th Asia-Pacific Conference March 2021 (online)*, [Few-Body Syst **62**, 59 (2021).](https://doi.org/10.1007/s00601-021-01648-7)
 
