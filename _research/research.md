@@ -26,8 +26,9 @@ My responsibilities included:
 
 This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (κλ) to date**, significantly improving constraints on Higgs boson self-interaction and non-resonant HH production.
 
-More information:  
-https://atlas.cern/Updates/Briefing/Higgs-Self-Interaction-Run-3
+This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (κλ) to date**, significantly improving constraints on Higgs boson self-interaction and non-resonant HH production.
+
+Further details are available in [the official ATLAS public briefing.](https://atlas.cern/Updates/Briefing/Higgs-Self-Interaction-Run-3)
 
 The workflow closely mirrors industry-grade model validation and monitoring practices: robust cross-validation, sensitivity studies to input features, uncertainty propagation, and reproducibility checks.
 
@@ -67,17 +68,28 @@ This work directly supports Run 4 commissioning and efficient large-scale data m
 
 ## Machine Learning in Medical Imaging
 
-Beyond high-energy physics, I co-authored a machine-learning-driven study on **PET image reconstruction**, applying:
+In parallel with my work in high-energy physics, I co-authored a machine-learning-driven study on **PET (Positron Emission Tomography) image reconstruction**, addressing the reconstruction of sparse, noisy, high-dimensional medical imaging data.
 
-- Probabilistic modelling
-- Maximum-likelihood estimation
-- Bayesian inference
-- PyTorch-based optimisation
-- Markov Chain Monte Carlo (MCMC)
+PET reconstruction is a fundamentally ill-posed inverse problem. The measured data follow Poisson statistics, are incomplete due to detector geometry and limited angular coverage, and are affected by noise and physical effects such as attenuation and scattering. Classical reconstruction approaches (e.g., filtered back-projection or iterative ML-EM methods) often struggle in low-count or sparse regimes.
 
-The work addressed sparse, high-dimensional medical imaging data and demonstrated how statistical inference and ML can improve reconstruction quality under limited-information conditions.
+In this project, we applied:
 
-This project expanded my expertise in probabilistic ML, inverse problems, and Bayesian modelling beyond particle physics.
+- Probabilistic modelling of the forward detection process  
+- Maximum-likelihood reconstruction  
+- Bayesian inference frameworks  
+- PyTorch-based optimisation  
+- Markov Chain Monte Carlo (MCMC) sampling  
+
+The approach incorporated prior information and uncertainty quantification directly into the reconstruction procedure, allowing improved stability and robustness in low-statistics scenarios.  
+
+This work strengthened my expertise in:
+- Inverse problems  
+- Likelihood-based modelling  
+- Bayesian uncertainty quantification  
+- High-dimensional optimisation  
+- Probabilistic machine learning  
+
+The project demonstrates how statistical inference and ML techniques can bridge physics-based modelling and real-world medical imaging challenges.
 
 ---
 
