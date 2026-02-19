@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/
-title: "Research"
+# title: "Research"
 ---
 
 ## Current Research – Higgs Physics (ATLAS Collaboration, CERN)
