@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,6 +21,8 @@ Journal Publications
 1. R. Skibiński, **Yu. Volkotrub**, J. Golak, K. Topolnicki and H. Witała. Theoretical uncertainties of the elastic nucleon-deuteron scattering observables. [*Phys. Rev. C 98, 014001 (2018).*](https://journals.aps.org/prc/pdf/10.1103/PhysRevC.98.014001)
 
 1. R. Skibiński, J. Golak, K. Topolnicki, H. Witała, and **Yu. Volkotrub** *et al*. Nucleon-deuteron scattering with the JISP16 potential. [*Phys. Rev. C 97, 014002 (2018).*](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.014002)
+
+A complete and up-to-date publication record, including citation metrics, is available on INSPIRE-HEP, [link](https://inspirehep.net/authors/1279244?ui-citation-summary=true).
 
 Conference Proceedings
 ======
