@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Yuriy Volkotrub | Independent Researcher | ATLAS Collaboration"
+excerpt: "Independent researcher in high-energy physics at Jagiellonian University working in close collaboration with the ATLAS experiment at CERN. Specializing in machine learning and statistical modeling."
 author_profile: true
 redirect_from: 
   - /about/
