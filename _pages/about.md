@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 excerpt: "Independent researcher in high-energy physics at Jagiellonian University collaborating with the ATLAS experiment at CERN. Specializing in machine learning, statistical modeling, and large-scale data analysis."
 author_profile: true
 redirect_from: 
