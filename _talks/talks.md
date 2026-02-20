@@ -9,7 +9,7 @@ author_profile: true
 
 Presentations and conference proceedings
 ======
-1. **Yu. Volkotrub**. Tau Anomalous Magnetic Moment Measurement at ATLAS and CMS (invited talk). *[The 30th Cracow Epiphany Conference on *Precision Physics at High Energy Colliders](https://indico.cern.ch/event/1288528/sessions/524139/#20240111), January 8-12, 2024, Krakow, Poland*. 
+1. **Yu. Volkotrub**. Tau Anomalous Magnetic Moment Measurement at ATLAS and CMS (invited talk). *[The 30th Cracow Epiphany Conference on Precision Physics at High Energy Colliders](https://indico.cern.ch/event/1288528/sessions/524139/#20240111), January 8-12, 2024, Krakow, Poland*. 
 
 1. **Yu. Volkotrub**. Electron and Photon reconstruction optimization for UPC in Pb+Pb collision (talk). *[Egamma 2023 workshop](https://indico.cern.ch/event/1245976/), March 14-17, 2022, CERN (Geneva), Switzerland*. 
 
