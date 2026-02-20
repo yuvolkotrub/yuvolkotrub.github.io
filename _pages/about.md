@@ -44,13 +44,12 @@ I am particularly interested in:
 - AI for scientific and industrial applications
 - Probabilistic modeling and uncertainty quantification
 
-<!-- [Download Dissertation]({{https://yuvolkotrub.github.io/}}/files/pdf/Dissertation_Volkotrub.pdf) -->
 ### Ph.D. Thesis
 
-**Title:** *[Insert Your Thesis Title]*  
-Defended in 2021 — Jagiellonian University  
+**Covariance matrix of nucleon–nucleon potential parameters in few-nucleon studies**  
+Defended in October 2021 — Jagiellonian University, Faculty of Physics, Astronomy and Applied Computer Science  
 
 - [Dissertation (PDF)]({{ "/files/pdf/Dissertation_Volkotrub.pdf" | relative_url }})
 - [Official Defence Announcement](https://fais.uj.edu.pl/wydzial/obrony/-/journal_content/56_INSTANCE_8AfLQeBmM1sp/41628/148728859)
-- [Review — Prof. Magierski (EN)]({{ "/files/pdf/Magierski.pdf" | relative_url }})
-- [Review — Prof. Szczurek (PL)]({{ "/files/pdf/Szczurek.pdf" | relative_url }})
+- [Review — Prof. Piotr Magierski (EN)]({{ "/files/pdf/Magierski.pdf" | relative_url }})
+- [Review — Prof. Antoni Szczurek (PL)]({{ "/files/pdf/Szczurek.pdf" | relative_url }})
