@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Yuriy Volkotrub"
   avatar           : "profile.jpg"
-  bio              : "Applied Data Scientist at CERN (ATLAS Collaboration) | Ph.D. in Theoretical Nuclear Physics"
+  bio              :  "Independent Researcher in High-Energy Physics | Jagiellonian University | ATLAS Collaboration"
+  employer         : "Jagiellonian University (ATLAS Collaboration)"  
   location         : "Cracow, Poland"
-  employer         : "CERN (ATLAS Collaboration)"
   email            : "yuvolkotrub@gmail.com"
   linkedin         : "yuriy-volkotrub-b84299176"
   googlescholar    : "https://scholar.google.com/citations?user=_hxi3yMAAAAJ&hl=en"

@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Data Scientist at CERN (ATLAS Collaboration) specializing in machine learning, statistical inference, and large-scale experimental data analysis.
+I am an independent researcher in high-energy physics at Jagiellonian University, collaborating closely with the ATLAS experiment at CERN.
 
-Within one of the world’s largest scientific collaborations (3000+ researchers), I design and evaluate multivariate models for Higgs boson and rare decay searches, working with high-dimensional datasets at extreme scale.
+My work integrates machine learning, statistical modeling, and uncertainty quantification in large-scale experimental analyses of Higgs boson and rare processes.
+
 
 My work combines:
 - Statistical modeling
