@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Physicist and Applied Data Scientist with 7+ years of experience in machine learning, statistical modeling, and large-scale experimental data analysis.
+I am an Applied Data Scientist at CERN (ATLAS Collaboration) specializing in machine learning, statistical inference, and large-scale experimental data analysis.
 
-Currently, I work as an Applied Data Scientist within the ATLAS Collaboration at CERN, where I design and evaluate machine learning models (classification, regression, anomaly detection) on high-dimensional datasets to support Higgs boson and rare decay analyses.
+Within one of the world’s largest scientific collaborations (3000+ researchers), I design and evaluate multivariate models for Higgs boson and rare decay searches, working with high-dimensional datasets at extreme scale.
 
 My work combines:
 - Statistical modeling
