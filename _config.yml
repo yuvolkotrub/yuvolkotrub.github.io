@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuriy Volkotrub "
+title                    : "Yuriy Volkotrub"
 title_separator          : "-"
 name                     : &name "Yuriy Volkotrub"
-description              : &description "personal description"
-url                      : https://yuvolkotrub.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Applied Data Scientist at CERN (ATLAS Collaboration). Machine Learning, Statistical Modeling, and High-Dimensional Data Analysis."
+url                      : "https://yuvolkotrub.github.io"
+baseurl                  : ""
 repository               : "yuvolkotrub/yuvolkotrub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -66,26 +66,30 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: "Yuriy Volkotrub"
+  links:
+    - "https://github.com/yuvolkotrub"
+    - "https://gitlab.cern.ch/yvolkotr"
+    - "https://www.linkedin.com/in/yuriy-volkotrub-b84299176"
+    - "https://scholar.google.com/citations?user=_hxi3yMAAAAJ&hl=en"
+    - "https://orcid.org/0000-0002-3114-3798"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
+    tracking_id: "G-XXXXXXXXXX"
 
 
 # Site Author
 author:
   name             : "Yuriy Volkotrub"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in Theoretical Nuclear Physics"
+  bio              : "Applied Data Scientist at CERN (ATLAS Collaboration) | Ph.D. in Theoretical Nuclear Physics"
   location         : "Cracow, Poland"
-  employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "CERN (ATLAS Collaboration)"
   email            : "yuvolkotrub@gmail.com"
   linkedin         : "yuriy-volkotrub-b84299176"
   googlescholar    : "https://scholar.google.com/citations?user=_hxi3yMAAAAJ&hl=en"
@@ -269,7 +273,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Warsaw
 
 
 # Plugins
