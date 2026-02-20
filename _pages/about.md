@@ -44,8 +44,12 @@ I am particularly interested in:
 - AI for scientific and industrial applications
 - Probabilistic modeling and uncertainty quantification
 
-[Download Dissertation]({{https://yuvolkotrub.github.io/}}/files/pdf/Dissertation_Volkotrub.pdf)
+<!-- [Download Dissertation]({{https://yuvolkotrub.github.io/}}/files/pdf/Dissertation_Volkotrub.pdf) -->
+[Download Dissertation]({{ "/files/pdf/Dissertation_Volkotrub.pdf" | relative_url }})
 
+**Ph.D. Thesis Defence**  
+Jagiellonian University — 2023  
+[Official Announcement]({{ "https://fais.uj.edu.pl/wydzial/obrony/-/journal_content/56_INSTANCE_8AfLQeBmM1sp/41628/148728859" }})
 
 <!---[Review 1 (EN)]({{https://yuvolkotrub.github.io/}}/files/pdf/Magierski.pdf)
 
