@@ -48,11 +48,10 @@ I am particularly interested in:
 [Download Dissertation]({{ "/files/pdf/Dissertation_Volkotrub.pdf" | relative_url }})
 
 **Ph.D. Thesis Defence**  
-Jagiellonian University — 2023  
+Jagiellonian University — 2021  
 [Official Announcement]({{ "https://fais.uj.edu.pl/wydzial/obrony/-/journal_content/56_INSTANCE_8AfLQeBmM1sp/41628/148728859" }})
 
-<!---[Review 1 (EN)]({{https://yuvolkotrub.github.io/}}/files/pdf/Magierski.pdf)
-
-[Review 2 (PL)]({{https://yuvolkotrub.github.io/}}/files/pdf/Szczurek.pdf)
--->
+**Thesis Reviews**  
+- [Review 1 (Prof. Magierski, EN)]({{ "/files/pdf/Magierski.pdf" | relative_url }})
+- [Review 2 (Prof. Szczurek, PL)]({{ "/files/pdf/Szczurek.pdf" | relative_url }})
 
