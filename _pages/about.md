@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an independent researcher in high-energy physics at Jagiellonian University, collaborating closely with the ATLAS experiment at CERN.
+Independent researcher in high-energy physics at Jagiellonian University, collaborating closely with the ATLAS experiment at CERN.
 
 My work integrates machine learning, statistical modeling, and uncertainty quantification in large-scale experimental analyses of Higgs boson and rare processes.
 
