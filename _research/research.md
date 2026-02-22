@@ -14,23 +14,15 @@ My research focuses on precision Higgs-boson measurements and rare decay searche
 **Run 2 + Run 3 (2015–2024), 308 fb⁻¹**  
 Accepted for publication – arXiv:2507.03495
 
-I contributed to the ATLAS search for non-resonant Higgs boson pair production in the **HH → bbγγ** final state, using the full Run 2 dataset and partial Run 3 data.
+I was part of the ATLAS analysis team searching for non-resonant Higgs boson pair production in the **HH &rarr; bbγγ** final state, using the full Run 2 dataset and early Run 3 data.
 
-My responsibilities included:
+Within the collaboration effort, I contributed to the development and validation of multivariate classification techniques used for signal-background separation, as well as to performance studies related to photon identification and event categorisation.
 
-- Development and optimisation of **multivariate classifiers (BDT)** for background rejection and signal extraction.
-- Validation and calibration of ML models (stability checks, bootstrap studies, feature-dependence analysis).
-- Detailed performance studies of **neural-network-based photon identification**.
-- Optimisation of event categorisation separately for Run 2 and Run 3.
-- Evaluation of systematic uncertainties and contributions to the statistical interpretation.
-
-This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (κλ) to date**, significantly improving constraints on Higgs boson self-interaction and non-resonant HH production.
-
-This analysis set the **most stringent ATLAS limits on the Higgs self-coupling (κλ) to date**, significantly improving constraints on Higgs boson self-interaction and non-resonant HH production.
+The analysis established the most stringent ATLAS limits on the Higgs self-coupling ($\kappa_{\lambda}$) to date, improving constraints on Higgs boson self-interaction and non-resonant HH production.
 
 Further details are available in [the official ATLAS public briefing](https://atlas.cern/Updates/Briefing/Higgs-Self-Interaction-Run-3).
 
-The workflow closely mirrors industry-grade model validation and monitoring practices: robust cross-validation, sensitivity studies to input features, uncertainty propagation, and reproducibility checks.
+The analysis workflow reflects large-scale collaborative ML development, including cross-validation, systematic uncertainty evaluation, and reproducible statistical inference.
 
 ---
 
