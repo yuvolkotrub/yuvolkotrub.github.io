@@ -10,8 +10,8 @@ My research focuses on precision Higgs-boson measurements and rare decay searche
 
 ---
 
-### Higgs Boson Pair Production (HH → bbγγ)  
-**Run 2 + Run 3 (2015–2024), 308 fb⁻¹**  
+### Higgs Boson Pair Production (HH &rarr; bbγγ)  
+**Run 2 + Run 3 (2015–2024), 308 fb$^{-1}$**  
 Accepted for publication – arXiv:2507.03495
 
 I was part of the ATLAS analysis team searching for non-resonant Higgs boson pair production in the **HH &rarr; bbγγ** final state, using the full Run 2 dataset and early Run 3 data.
@@ -26,9 +26,9 @@ The analysis workflow reflects large-scale collaborative ML development, includi
 
 ---
 
-### Rare Higgs Decay Search: H → Za → ℓℓγγ (HLRS, ongoing)
+### Rare Higgs Decay Search: H &rarr; Za &rarr; ℓℓγγ (HLRS, ongoing)
 
-I am currently working on the HLRS **H → Za → ℓℓγγ** analysis, combining Run 2 and Run 3 data (2015–2025/26). This rare channel provides sensitivity to beyond-Standard-Model scenarios, including axion-like particles (ALPs) and extended scalar sectors.
+I am currently working on the HLRS **H &rarr; Za &rarr; ℓℓγγ** analysis, combining Run 2 and Run 3 data (2015–2025/26). This rare channel provides sensitivity to beyond-Standard-Model scenarios, including axion-like particles (ALPs) and extended scalar sectors.
 
 My work includes:
 
