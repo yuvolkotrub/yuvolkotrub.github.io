@@ -12,7 +12,11 @@ Journal Publications
 
 A complete and up-to-date publication record, including citation metrics, is available on INSPIRE-HEP, [link](https://inspirehep.net/authors/1279244?ui-citation-summary=true).
 
+1. K. Topolnicki, S. Sharma, **Yu. Volkotrub**, M. Das. Exploring maximum likelihood and Bayesian approaches for two-dimensional image restoration: A machine learning perspective. [*Computer Physics Communications **319**, 109913 (2026)*.](https://doi.org/10.1016/j.cpc.2025.109913)
+
 1. A. Yu. Korchin, E. Richter-Was, **Yu. Volkotrub**, and Z. Was. $\tau$-lepton pair spin in proton-proton LHC collisions for anomalous dipole moments. [*Phys. Rev. D **111**, 013006 (2025)*.](https://doi.org/10.1103/PhysRevD.111.013006)
+
+1. **Yu. Volkotrub** et al. (ATLAS Collaboration). Observation of $\bar{t}t$ production in the lepton+jets and dilepton channels in p+Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 8.16 TeV with the ATLAS detector. [*Journal of High Energy Physics **2024**, 11 (2024)*.](https://link.springer.com/article/10.1007/JHEP11(2024)101)
 
 1. **Yu. Volkotrub**, R. Skibiński, J. Golak, H. Witała. Correlations among neutron-proton and neutron-deuteron elastic scattering observables. [*Phys. Rev. C **106**, 034002 (2022)*.](https://doi.org/10.1103/PhysRevC.106.034002)
 
